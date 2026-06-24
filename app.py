@@ -1,6 +1,3 @@
-import sys
-sys.path.append(r"C:\ia_libs")
-
 import cv2
 
 # Carrega o detector de rostos nativo do OpenCV
